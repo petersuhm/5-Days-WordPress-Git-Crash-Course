@@ -14,3 +14,5 @@ $checkForGreetingFilter = function() {
 };
 
 add_filter('wp_loaded', $checkForGreetingFilter);
+
+// Tmp comment
